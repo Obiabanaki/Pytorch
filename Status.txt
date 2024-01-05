@@ -1,0 +1,5 @@
+1.1.2024
+according to pytorch page, pytorch is instsalled and verified in the jupyter notbook
+the list of project which I can start with are searched and one of the pages are
+https://www.omdena.com/blog/best-pytorch-projects
+next step : what is computational graphs? check the projects and challenges in the website.
